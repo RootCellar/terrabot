@@ -1,6 +1,13 @@
 Terrabot
 =====
 
+Forked from flammified/terrabot
+
+Attempting to modify the bot and add real movement, and maybe even an inventory.
+
+Original Readme:
+-------
+
 Introduction
 -----
 [![PyPI version](https://badge.fury.io/py/terrabot.svg)](https://badge.fury.io/py/terrabot)
