@@ -60,6 +60,9 @@ class TerraBot(object):
 
     def get_event_manager(self):
         return self.evman
+    
+    def get_client(self):
+        return self.client
 
     def stop(self):
         self.client.stop()
